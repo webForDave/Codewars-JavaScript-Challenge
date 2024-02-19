@@ -1,4 +1,4 @@
-let validatePin = pin => {
+let validatePin = (pin) => {
   
 //     Simply check if the length is 4 or 6, and it has to be divisible a number. (strings with letters will not be divisible) 
 //     if it is not divisible (it returns NaN which is a falsey value) the condition will not be met and return false
