@@ -6,11 +6,3 @@ let validatePin = (pin) => {
     else return false
 }
 console.log(validatePin('123456'));
-<<<<<<< HEAD
-
-function age() {
-    return Math.random().toFixed(2) * 10;
-}
-age(); 
-=======
->>>>>>> 2d4e3b224627dc5dce7f683a9cd2aee83adce810
