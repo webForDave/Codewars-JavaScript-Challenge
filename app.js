@@ -14,3 +14,8 @@ let validatePin = pin => {
 
 }
 console.log(validatePin('123456'));
+
+function age() {
+    return Math.random().toFixed(2) * 10;
+}
+age(); 
